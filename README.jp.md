@@ -1,4 +1,5 @@
-﻿#Lisp Game Programming 2#
+﻿# Common-abogadro
+- Lisp Game Programming 2 -
 
 このプログラムは、[HSPで作成されたシューティングゲーム][1]を、[CommonLisp][2] + [Lispbuilder-sdl][3]でリメイクしたものです。
 
