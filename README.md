@@ -1,7 +1,7 @@
 # Common-abogadro
 Lisp Game Programming 2
  
-This game is remade program with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
+This program is remade with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
 Original was made with [HSP][1]. 
 
