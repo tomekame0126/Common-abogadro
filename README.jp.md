@@ -24,7 +24,11 @@
 
 > *注）Emacsやsbcl、c:\work等へのpathの設定を忘れずに！*
 
+##謝辞##
 
-[1]: http://mclass13.web.fc2.com/hspstudy/shooter1.htm
+> *原作者の[時　貴斗][4]さんに感謝します。*
+
+[1]: http://mclass13.web.fc2.com/hsplecture/index.htm
 [2]: http://www.sbcl.org/
 [3]: https://github.com/lispbuilder/lispbuilder
+[4]: http://mclass13.web.fc2.com/index.htm
