@@ -3,9 +3,9 @@ Lisp Game Programming 2
 
 by Google Translate
  
-This game is remade program by [CommonLisp] [2] + [Lispbuilder-sdl] [3].
+This game is remade program with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
-Original was made in [HSP][1]. 
+Original was made with [HSP][1]. 
 
 ##Environment##
 
