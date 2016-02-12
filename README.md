@@ -1,7 +1,5 @@
 # Common-abogadro
 Lisp Game Programming 2
-
-by Google Translate
  
 This game is remade program with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
@@ -37,3 +35,5 @@ Original was made with [HSP][1].
 [2]: http://www.sbcl.org/
 [3]: https://github.com/lispbuilder/lispbuilder
 [4]: http://mclass13.web.fc2.com/index.htm
+
+by Google Translate
