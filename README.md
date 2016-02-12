@@ -3,7 +3,9 @@ Lisp Game Programming 2
 
 by Google Translate
  
-This program is what was remake in the shooting games that have been created in the [HSP] [1], [CommonLisp] [2] + [Lispbuilder-sdl] [3].
+This game is remade program by [CommonLisp] [2] + [Lispbuilder-sdl] [3].
+
+Original was made in [HSP][1]. 
 
 ##Environment##
 
