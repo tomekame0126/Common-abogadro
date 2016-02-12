@@ -1,10 +1,16 @@
 # Common-abogadro
 [Lisp Game Programming 2][5]
+<<<<<<< HEAD
 
 This program is remade with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
 
 
+=======
+ 
+This program is remade with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
+
+>>>>>>> origin/master
 Original was made with [HSP][1]. 
 
 ##Environment##
@@ -24,9 +30,15 @@ Original was made with [HSP][1].
 ## How to use ##
 
 > *From step1~13 , enemy-test or standalone holder, move target program to c:\work.*
+<<<<<<< HEAD
 
 > *Start the slime from Emacs, and then run the program(step1 ~ 13, enemy-test, Common-abogadro).*
 
+=======
+
+> *Start the slime from Emacs, and then run the program(step1 ~ 13, enemy-test, Common-abogadro).*
+
+>>>>>>> origin/master
 > *Note) Do not forget the path settings to c:\work , etc. !*
 
 ## Acknowledgments ##
@@ -39,6 +51,10 @@ Original was made with [HSP][1].
 [4]: http://mclass13.web.fc2.com/index.htm
 [5]: http://tomekame0126.hatenablog.com/entry/2015/05/24/182132
 
+<<<<<<< HEAD
 
 
 by Google Translate
+=======
+by Google Translate
+>>>>>>> origin/master
