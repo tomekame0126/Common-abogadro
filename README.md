@@ -1,2 +1,37 @@
 # Common-abogadro
 Lisp Game Programming 2
+
+by Google Translate
+ 
+This program is what was remake in the shooting games that have been created in the HSP] [1], [CommonLisp] [2] + [Lispbuilder-sdl] [3].
+
+##Environment##
+
+> * Windows 10 *
+
+> * Emacs 24.2 *
+
+> * Sbcl 1.3.1 *
+
+> * Slime 2.15 *
+
+> * Lispbuilder-sdl + ttf + mixer *
+
+
+
+## How to use ##
+
+> * From step1~13 , enemy-test or standalone holder, move target program to c:\work. *
+>
+> * Start the slime from Emacs, and then run the program(step1 ~ 13, enemy-test, Common-abogadro). *
+
+> * Note) Do not forget the path settings to c:\work , etc. ! *
+
+## Acknowledgments ##
+
+> * [Takato toki] the original author will appreciate the [4] 's . *
+
+[1]: http://mclass13.web.fc2.com/hsplecture/index.htm
+[2]: http://www.sbcl.org/
+[3]: https://github.com/lispbuilder/lispbuilder
+[4]: http://mclass13.web.fc2.com/index.htm
