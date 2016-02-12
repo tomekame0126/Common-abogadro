@@ -3,7 +3,7 @@ Lisp Game Programming 2
 
 by Google Translate
  
-This program is what was remake in the shooting games that have been created in the HSP] [1], [CommonLisp] [2] + [Lispbuilder-sdl] [3].
+This program is what was remake in the shooting games that have been created in the [HSP] [1], [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
 ##Environment##
 
@@ -29,7 +29,7 @@ This program is what was remake in the shooting games that have been created in 
 
 ## Acknowledgments ##
 
-> * [Takato toki] the original author will appreciate the [4] 's . *
+> * [Takato toki][4] the original author. *
 
 [1]: http://mclass13.web.fc2.com/hsplecture/index.htm
 [2]: http://www.sbcl.org/
