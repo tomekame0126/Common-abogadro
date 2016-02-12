@@ -1,9 +1,5 @@
-﻿# Common-abogadro
-<<<<<<< HEAD
+# Common-abogadro
  [Lisp Game Programming 2][5]
-=======
-[Lisp Game Programming 2][5]
->>>>>>> origin/master
 
 このプログラムは、[HSPで作成されたシューティングゲーム][1]を、[CommonLisp][2] + [Lispbuilder-sdl][3]でリメイクしたものです。
 
