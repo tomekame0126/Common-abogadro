@@ -54,6 +54,8 @@
 ;  (:export #:Common-abogadro))
 (in-package :game)
 
+(declaim (optimize (speed 3) (debug 0) (safety 0)))
+
 ;; step1 <Macro>
 ;; -----------------------------------------------------------------------------------------------
 (defmacro define-class (name superclasses slots form)
@@ -962,8 +964,9 @@
 	     (setf (dx enemy-shot) (* (cos (degree-radian (+ angle (angle-store enemy)))) speed)) ; dx from angle list
 	     (setf (dy enemy-shot) (* (sin (degree-radian (+ angle (angle-store enemy)))) speed)))); dy from angle list
       ((1)  ; direction of ship
-	(setf *range-x* (- ship-x ene-shot-x))
-        (setf *range-y* (- ship-y ene-shot-y))
+        (when (/= ship-x ene-shot-x)                                ;<------------------ Bug Fix
+	  (setf *range-x* (- ship-x ene-shot-x))                    ; 
+          (setf *range-y* (- ship-y ene-shot-y)))                   ;  
         (setf *distance* (sqrt (+ (* *range-x* *range-x*) (* *range-y* *range-y*))))
         (setf (first-x enemy) (* (/ *range-x* *distance*) speed))    ; x distance from enemy to ship
         (setf (first-y enemy) (* (/ *range-y* *distance*) speed))    ; y distance form enemy to ship  
