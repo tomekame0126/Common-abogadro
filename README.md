@@ -25,12 +25,31 @@ Original was made with [HSP][1].
 
 > *Note) Do not forget the path settings to c:\work , etc. !*
 
+
+## Caution ##
+
+> There is a Japanese message in the program [step4 later], but can not display the Japanese message in lispbuilder-sdl-ttf.
+> Therefore, using lispbuilder-sdl-ttf modified as follows.
+
+> Holder
+
+>lispbuilder-sdl-ttf -> sdl-ttf
+
+> Change
+
+> 1.string-blended.lisp: render-text-blended -> render-utf8-blended
+
+> 2.string-shaded.lisp: render-text-shaded -> render-utf8-shaded
+
+> 3.string-solid.lisp: render-text-solid -> render-utf8-solid
+
+
 ## Images ##
 ![abogadro][6]
 
 ## Acknowledgments ##
 
-> *[Takato toki][4] the original author.*
+> *[Takato toki][4] : the original author.*
 
 [1]: http://mclass13.web.fc2.com/hsplecture/index.htm
 [2]: http://www.sbcl.org/
