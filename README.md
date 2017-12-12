@@ -1,11 +1,11 @@
-#Common-abogadro
+# Common-abogadro
 [Lisp Game Programming 2][5]
  
 This program is remade with [CommonLisp] [2] + [Lispbuilder-sdl] [3].
 
 Original was made with [HSP][1]. 
 
-##Environment##
+## Environment ##
 
 > *Windows 10*
 
